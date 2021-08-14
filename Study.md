@@ -22,27 +22,27 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What are the benefits of using source control?
 
     ```
-    Please write your answer here.
+    The ability to track the progression/history of the project. Also allowing for separate branches for easier editting of segments or adding new ones.
     ```
 
 1. What is the difference between Git and GitHub?
 
     ```
-    Please write your answer here.
+    GitHub is a cloud based hosting site for infinite Git repositories whilst Git itself is a version control system.
     ```
 
 1. What are the benefits of using branches?
 
     ```
-    Please write your answer here.
+    It allows for constant edits and tweaks to the main code without actually affecting it until the adjustments are complete and ready to be merged in. Plus organising the team itself into the parts that they are working on.
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 3
 
-    Clarity: 
+    Clarity: 3
     ```
 
 ### Response Guidelines
